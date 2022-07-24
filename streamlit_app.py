@@ -28,7 +28,7 @@ streamlit.dataframe(fruits_to_show)
 #new display
 
 
-streamlit.dataframe(fruityvice_normalized)
+
 
 
 
